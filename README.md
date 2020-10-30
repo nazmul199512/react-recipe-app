@@ -4,7 +4,7 @@ Food recipe Application using React
 ### Live : [Demo](https://limitless-forest-10587.herokuapp.com/)
 
 
-###Screen_shot
+### Screen_shot
 ![](ss.PNG)
 
 
